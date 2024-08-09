@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647879194650",
+    "project_id": "invyte-c9488",
+    "storage_bucket": "invyte-c9488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647879194650:android:0c228205d810a0ecc779a3",
+        "android_client_info": {
+          "package_name": "com.example.wedding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCctyeA-lNv9fwwApAB2gFCfs3cb8dcZAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
